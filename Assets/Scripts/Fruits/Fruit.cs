@@ -7,6 +7,7 @@ public class Fruit
     private string type;
     private bool playable;
     private float speed;
+    private GameObject FruitModel;
 
     public Fruit(string type,float speed,bool playable)
     {
@@ -28,5 +29,15 @@ public class Fruit
     public string getType()
     {
         return type;
+    }
+
+    public void SetFruitChild( GameObject f)
+    {
+        FruitModel = f;
+    }
+
+    public GameObject getFruitChild()
+    {
+        return FruitModel;
     }
 }
