@@ -7,6 +7,8 @@ MonoImporter:
   - bananaMesh: {fileID: 100000, guid: 461f0170c82b53340a9812199b63bbd4, type: 3}
   - hotDogMesh: {fileID: 100000, guid: fdc7d8dffa381b54cb7740b8761d54c0, type: 3}
   - oliveMesh: {fileID: 100000, guid: bd232805ec57aa245a81c2df3f69f66a, type: 3}
+  - startPoint: {fileID: 950870492719882275, guid: 07c415d45fd1cb24a9c9f8ff94e7afa9,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
